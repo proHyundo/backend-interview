@@ -28,5 +28,5 @@
 
 | 이름       | GitHub 프로필                               | 이름       | GitHub 프로필                               | 이름       | GitHub 프로필                               |
 |------------|---------------------------------------------|------------|---------------------------------------------|------------|---------------------------------------------|
-| [송현도(proHyundo)](https://github.com/proHyundo)     | <img src="https://github.com/proHyundo.png" width="100">  | [김성민(jarajiri)](https://github.com/jarajiri)     | <img src="https://github.com/jarajiri.png" width="100">  | 팀원 3     | [GitHub Profile](https://github.com/HyungJun-An)  | <img src="https://github.com/HyungJun-An.png" width="100">
-| 팀원 4     | [GitHub Profile](https://github.com/team4)  | 팀원 5     | [GitHub Profile](https://github.com/team5)  | 팀원 6     | [GitHub Profile](https://github.com/team6)  |
+| [송현도(proHyundo)](https://github.com/proHyundo)     | <img src="https://github.com/proHyundo.png" width="100">  | [김성민(jarajiri)](https://github.com/jarajiri)     | <img src="https://github.com/jarajiri.png" width="100">  | [안형준(HyungJun-An)](https://github.com/HyungJun-An)     | <img src="https://github.com/HyungJun-An.png" width="100">  |
+| [이예찬(YeChanny)](https://github.com/dpcks)    | <img src="https://github.com/dpcks.png" width="100"> | 팀원 5     | [GitHub Profile](https://github.com/team5)  | 팀원 6     | [GitHub Profile](https://github.com/team6)  |
