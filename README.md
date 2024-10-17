@@ -28,5 +28,6 @@
 
 | 이름       | GitHub 프로필                               | 이름       | GitHub 프로필                               | 이름       | GitHub 프로필                               |
 |------------|---------------------------------------------|------------|---------------------------------------------|------------|---------------------------------------------|
+
 | [송현도(proHyundo)](https://github.com/proHyundo)     | <img src="https://github.com/proHyundo.png" width="100">  | [김성민(jarajiri)](https://github.com/jarajiri)     | <img src="https://github.com/jarajiri.png" width="100">  | [안형준(HyungJun-An)](https://github.com/HyungJun-An)     | <img src="https://github.com/HyungJun-An.png" width="100">  |
-| [이예찬(YeChanny)](https://github.com/dpcks)    | <img src="https://github.com/dpcks.png" width="100"> | 팀원 5     | [GitHub Profile](https://github.com/team5)  | 팀원 6     | [GitHub Profile](https://github.com/team6)  |
+| [이예찬(YeChanny)](https://github.com/dpcks)    | <img src="https://github.com/dpcks.png" width="100"> | [장진욱(jang-jinuk)](https://github.com/jang-jinuk)     | <img src="https://github.com/jang-jinuk.png" width="100"  >  | [이서은(leeseoeun)](https://github.com/leeseoeun)     | <img src="https://github.com/leeseoeun.png" width="100">  |
