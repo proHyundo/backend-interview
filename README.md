@@ -2,16 +2,16 @@
 
 ## 📌 개요
 
-[새싹 교육기관](https://sesac.seoul.kr/common/greeting.do) `러닝메이트` 면접 대비 스터디
-
+[새싹 교육기관](https://sesac.seoul.kr/common/greeting.do)의 `러닝메이트` 활동을 통해 결성된 면접 대비 스터디 입니다.</br>
 
 ## 운영 계획
 
-매주 화요일 오후 6시 ~ (최대 3시간)
+매주 화요일 오후 7시 ~ (최대 3시간)
 
 **스터디 준비**
 
-서적과 예상 문항을 바탕으로 학습합니다.
+차주 스터디에서 주고받을 예상 질문을 기반으로 필요한 내용을 준비해 옵니다.
+예상 질문은 개인의 이력서/포트폴리오를 기반하되, 인성 질문 및 CS 질문이 추가될 수 있습니다.
 답변의 근거로 서적, 공식 문서 등을 지향합니다.
 
 **모의 면접 세부 내용**
@@ -26,7 +26,7 @@
 
 ## 스터디원
 
-| 이름       | GitHub 프로필                               | 이름       | GitHub 프로필                               | 이름       | GitHub 프로필                               |
-|------------|---------------------------------------------|------------|---------------------------------------------|------------|---------------------------------------------|
-| [송현도(proHyundo)](https://github.com/proHyundo)     | <img src="https://github.com/proHyundo.png" width="100">  | [김성민(jarajiri)](https://github.com/jarajiri)     | <img src="https://github.com/jarajiri.png" width="100">  | [안형준(HyungJun-An)](https://github.com/HyungJun-An)     | <img src="https://github.com/HyungJun-An.png" width="100">  |
-| [이예찬(YeChanny)](https://github.com/dpcks)    | <img src="https://github.com/dpcks.png" width="100"> | [장진욱(jang-jinuk)](https://github.com/jang-jinuk)     | <img src="https://github.com/jang-jinuk.png" width="100"  >  | [이서은(leeseoeun)](https://github.com/leeseoeun)     | <img src="https://github.com/leeseoeun.png" width="100">  |
+| 이름                                              | GitHub 프로필                                            | 이름                                                | GitHub 프로필                                               | 이름                                                  | GitHub 프로필                                              |
+| ------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------- |
+| [송현도(proHyundo)](https://github.com/proHyundo) | <img src="https://github.com/proHyundo.png" width="100"> | [김성민(jarajiri)](https://github.com/jarajiri)     | <img src="https://github.com/jarajiri.png" width="100">     | [안형준(HyungJun-An)](https://github.com/HyungJun-An) | <img src="https://github.com/HyungJun-An.png" width="100"> |
+| [이예찬(YeChanny)](https://github.com/dpcks)      | <img src="https://github.com/dpcks.png" width="100">     | [장진욱(jang-jinuk)](https://github.com/jang-jinuk) | <img src="https://github.com/jang-jinuk.png" width="100"  > | [이서은(leeseoeun)](https://github.com/leeseoeun)     | <img src="https://github.com/leeseoeun.png" width="100">   |
